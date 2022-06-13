@@ -1,0 +1,35 @@
+.cordefundo{
+    background: linear-gradient(#F2B5D4  9%,#d893b5  80%  )
+}
+.layout{
+    display: flex;
+    justify-content: space-between;
+}
+.layout h6{
+    margin-left: 30px;
+
+}
+.text-decorator-none{
+    text-decoration: none ;
+}
+.cursor{
+    cursor: pointer;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
